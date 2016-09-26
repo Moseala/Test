@@ -12,5 +12,6 @@ package test;
  */
 public class NewClass {
     int newClassInt;
+    String s = "Fixed issue 1";
     
 }
