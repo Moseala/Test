@@ -13,11 +13,11 @@ public class Test {
 
     /**
      * @param args the command line arguments
-     * Changed from Windows
+     * Changed from School
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Working Commit");
+        System.out.println("TAMUCT commit");
     }
     
 }
