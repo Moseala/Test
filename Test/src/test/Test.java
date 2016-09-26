@@ -13,7 +13,7 @@ public class Test {
 
     /**
      * @param args the command line arguments
-     * Changed from Linux
+     * Changed from Windows
      */
     public static void main(String[] args) {
         // TODO code application logic here
